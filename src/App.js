@@ -19,7 +19,7 @@ class App extends Component {
   }
 
   totalInvitedGuest = () => {
-
+    this.state.guests.length;
   }
 
   attendedGuest = () => {
